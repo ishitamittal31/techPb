@@ -4,7 +4,7 @@ metadata:
   name: intro
   # This is an extra long description with Markdown
   description: |
-    [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec. Java is a high-level, object-oriented programming language that was developed by Sun Microsystems (now owned by Oracle Corporation). It was first released in 1995 and has since become one of the most widely used programming languages in the world. Java is known for its platform independence, which means that Java programs can run on any device or operating system that has a Java Virtual Machine (JVM) installed.
+    [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
     - First item
     - Second item
   links:
